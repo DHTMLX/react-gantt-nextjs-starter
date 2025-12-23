@@ -1,6 +1,12 @@
 # DHTMLX React Gantt Quick Start with Next.js
 
-This project demonstrates how to integrate the DHTMLX React Gantt component with Next.js framework. Built with React 19+ and Next.js 16+, this demo provides a solid foundation for building powerful project management applications with full TypeScript support for enhanced code quality and maintainability.
+This project demonstrates how to integrate the DHTMLX React Gantt component with Next.js framework. 
+
+Built with React 19+ and Next.js 16+, this demo provides a solid foundation for building powerful project management applications with full TypeScript support.
+
+**Related tutorial**:
+[https://docs.dhtmlx.com/gantt/integrations/react/nextjs/](https://docs.dhtmlx.com/gantt/integrations/react/nextjs/)
+
 
 ## Features:
 
